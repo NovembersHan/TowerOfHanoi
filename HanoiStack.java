@@ -1,5 +1,10 @@
 /*
  * File: HanoiStack.java
+ *
+ * This program implements the Tower of Hanoi function using
+ * an array of three stacks for the poles in the problem.
+ *
+ * Created on: March 18, 2019
  * Author: Han
  */
 
